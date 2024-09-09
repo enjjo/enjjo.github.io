@@ -2,7 +2,7 @@
 title: "76-106 Writing About Art, Literature, and Culture - Diasporic Literature: Home and (Be)Longing"
 collection: teaching
 type: "First Year Writing"
-#permalink: /teaching/2023-Writing-About-Data
+permalink: /teaching/2022-Writing-About-Literature
 venue: "Carnegie Mellon University"
 date: 2020-09-01
 location: 
