@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Eunji Jo | 조은지"
 author_profile: true
 redirect_from: 
   - /about/
