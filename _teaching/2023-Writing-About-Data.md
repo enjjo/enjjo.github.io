@@ -2,7 +2,7 @@
 title: "76-107 Writing About Data"
 collection: teaching
 type: "First Year Writing"
-#permalink: /teaching/2023-Writing-About-Data
+permalink: /teaching/2023-Writing-About-Data
 venue: "Carnegie Mellon University"
 date: 2023-09-01
 location: 
