@@ -1,10 +1,17 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<iframe src="/files/EJ_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
+{% include base_path %}
+
+## View My CV:
+
+![CV Page 1](/images/CV1.jpg)
+![CV Page 2](/images/CV2.jpg)
+![CV Page 3](/images/CV3.jpg)
+![CV Page 4](/images/CV4.jpg)
