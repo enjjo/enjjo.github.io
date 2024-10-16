@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## View My CV:
-
 ![CV Page 1](/images/CV1.jpg)
 ![CV Page 2](/images/CV2.jpg)
 ![CV Page 3](/images/CV3.jpg)
