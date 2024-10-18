@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![CV Page 1](/images/CV1.jpg)
-![CV Page 2](/images/CV2.jpg)
-![CV Page 3](/images/CV3.jpg)
-![CV Page 4](/images/CV4.jpg)
+<img src="/images/CV1.jpg" alt="CV Page 1" style="width: 100%; max-width: 800px; border: 2px solid black; padding: 10px; background-color: white;">
+<img src="/images/CV2.jpg" alt="CV Page 2" style="width: 100%; max-width: 800px; border: 2px solid black; padding: 10px; background-color: white;">
+<img src="/images/CV3.jpg" alt="CV Page 3" style="width: 100%; max-width: 800px; border: 2px solid black; padding: 10px; background-color: white;">
+<img src="/images/CV4.jpg" alt="CV Page 4" style="width: 100%; max-width: 800px; border: 2px solid black; padding: 10px; background-color: white;">
