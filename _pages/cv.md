@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/assets/files/cv0125.pdf#toolbar=0" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/files/cv0125.pdf#toolbar=0" width="100%" height="800px" style="border: none;"></iframe>
