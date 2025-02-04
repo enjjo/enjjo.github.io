@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Eunji"
+title                    : "Eunji Jo"
 title_separator          : "-"
-name                     : &name "Eunji Jo | 조은지"
+name                     : &name "Eunji Jo"
 description              : &description "Doctoral candidate in English, Carnegie Mellon University"
 url                      : https://enjjo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : #"Your Sidebar Name"
+  name             : "Jo, Eunji | 조은지"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral candidate, graduate instructor, and teaching consultant fellow at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
