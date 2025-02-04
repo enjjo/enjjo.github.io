@@ -9,14 +9,20 @@ author_profile: true
 Since Fall 2020, I have served as the instructor of record for 16 courses, including 13 seven-week courses and three full-semester courses, spanning first-year writing, upper-level seminars, and interdisciplinary subjects. Over these years, I have had the privilege of teaching 274 undergraduate students, continuously refining my pedagogical approach to foster critical thinking, engagement, and interdisciplinary inquiry.
 
 </div>
+🏆 **Dietrich College Teaching Award (2024–2025)**  
+🏆 **English Department Teaching Award (2024)**  
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" data-instgrm-version="14">
+  <p><a href="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" target="_blank">View on Instagram</a></p>
+</blockquote>  
+<script async src="https://www.instagram.com/embed.js"></script>
 
 ---
 
 ## **Courses Taught**  
 
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
-<b>76-101 Interpretation and Argument: Hello World: Texts & Tech</b><br></div>
-Semester Taught: Fall 2024<br><br>**Semester:** Fall 2024  
+### **76-101 Interpretation and Argument: Hello World: Texts & Tech***
+**Semester:** Fall 2024  
 
 **Course Description:** This foundational writing course examines the evolving relationship between **writing and technology**. Students develop critical reading and analytical writing skills while exploring how digital tools such as Grammarly, ChatGPT, GitHub, and LaTeX impact academic writing and knowledge production. Practical exercises using Zotero, Google Docs, and Tableau help students engage with writing as an interactive and evolving intellectual practice.  
 
