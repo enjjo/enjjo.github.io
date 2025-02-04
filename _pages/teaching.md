@@ -15,7 +15,7 @@ Since Fall 2020, I have served as the instructor of record for 16 courses, inclu
 ## **Courses Taught**  
 
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
-<b>76-101 Interpretation and Argument: Hello World: Texts & Tech</b><br>
+<b>76-101 Interpretation and Argument: Hello World: Texts & Tech</b><br></div>
 Semester Taught: Fall 2024<br><br>**Semester:** Fall 2024  
 
 **Course Description:** This foundational writing course examines the evolving relationship between **writing and technology**. Students develop critical reading and analytical writing skills while exploring how digital tools such as Grammarly, ChatGPT, GitHub, and LaTeX impact academic writing and knowledge production. Practical exercises using Zotero, Google Docs, and Tableau help students engage with writing as an interactive and evolving intellectual practice.  
