@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color: #fff9db; padding: 20px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #fff4cc; padding: 20px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;">
 
-My research sits at the intersection of diasporic literature, transnational and mobility studies, and urban geography**, integrating close reading with digital humanities methods to examine cultural practices and representations. By analyzing diasporic narratives and their circulation, I aim to empower urban communities by challenging exclusionary spatial practices** and exploring creative ways to foster diversity and inclusivity in city spaces.
+My research sits at the intersection of diasporic literature, transnational and mobility studies, and urban geography, integrating close reading with digital humanities methods to examine cultural practices and representations. By analyzing diasporic narratives and their circulation, I aim to empower urban communities by challenging exclusionary spatial practices and exploring creative ways to foster diversity and inclusivity in city spaces.
 
 </div>
 
