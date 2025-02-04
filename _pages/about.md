@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## **About Me**  
 
 <div style="background-color: #fff9db; padding: 20px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
 
