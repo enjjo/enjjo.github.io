@@ -6,7 +6,7 @@ author_profile: true
 ---
 <div style="background-color: #fff4cc; padding: 20px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;">
 
-Since Fall 2020, I have served as the **instructor of record** for 16 courses, including **13 seven-week courses** and **three full-semester courses**, spanning **first-year writing, upper-level seminars, and interdisciplinary subjects**. Over these years, I have had the privilege of teaching **274 undergraduate students**, continuously refining my pedagogical approach to foster critical thinking, engagement, and interdisciplinary inquiry.
+Since Fall 2020, I have served as the instructor of record for 16 courses, including 13 seven-week courses and three full-semester courses, spanning first-year writing, upper-level seminars, and interdisciplinary subjects. Over these years, I have had the privilege of teaching 274 undergraduate students, continuously refining my pedagogical approach to foster critical thinking, engagement, and interdisciplinary inquiry.
 
 </div>
 
