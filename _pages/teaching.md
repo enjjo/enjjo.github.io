@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px;">
 
   <!-- Left: Yellow Text Box -->
   <div style="flex: 1; max-width: 500px; background-color: #f4f4f4; padding: 20px; border-radius: 8px; 
@@ -20,7 +20,7 @@ author_profile: true
   </div>
 
   <!-- Right: Instagram Embed -->
-  <div style="flex: 1; text-align: center; max-width: 200px;">
+  <div style="flex: 1; text-align: center; max-width: 100px;">
     <blockquote class="instagram-media" 
                 data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" 
                 data-instgrm-version="14">
