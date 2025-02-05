@@ -8,19 +8,19 @@ author_profile: true
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <!-- Left: Yellow Text Box -->
-  <div style="flex: 1; background-color: #fff4cc; padding: 20px; border-radius: 8px; 
+  <div style="flex: 1; background-color: #f4f4f4; padding: 20px; border-radius: 8px; 
               box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;">
 
-    Since Fall 2020, I have served as the instructor of record for **16 courses**, including **13 seven-week courses** and **three full-semester courses**, spanning **first-year writing, upper-level seminars, and interdisciplinary subjects**. Over these years, I have had the privilege of **teaching 274 undergraduate students**, continuously refining my pedagogical approach to foster **critical thinking, engagement, and interdisciplinary inquiry**.
+    Since Fall 2020, I have served as the instructor of record for 16 courses, including 13 seven-week courses and three full-semester courses, spanning first-year writing, upper-level seminars, and interdisciplinary subjects. Over these years, I have had the privilege of teaching 274 undergraduate students, continuously refining my pedagogical approach to foster critical thinking, engagement, and interdisciplinary inquiry.
 
     <br><br>
-    🏆 **Dietrich College Teaching Award (2024–2025)**  
-    🏆 **English Department Teaching Award (2024)**  
+    🏆 Dietrich College Teaching Award (2024–2025)  
+    🏆 English Department Teaching Award (2024)  
 
   </div>
 
   <!-- Right: Instagram Embed -->
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center; max-width: 300px;">
     <blockquote class="instagram-media" 
                 data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" 
                 data-instgrm-version="14">

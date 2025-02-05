@@ -14,8 +14,6 @@ My research sits at the intersection of diasporic literature, transnational and 
 </div>
 
 
----
-
 ## **Current Project**  
 ### [Diaspora Voices in Translation: Building a Digital Archive of Translated Works Post-9/11](https://next-test-one-henna.vercel.app/)  
 
