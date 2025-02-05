@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: center; max-width: 500px; justify-content: space-between; gap: 20px;">
 
   <!-- Left: Yellow Text Box -->
   <div style="flex: 1; background-color: #f4f4f4; padding: 20px; border-radius: 8px; 
