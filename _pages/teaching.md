@@ -8,7 +8,7 @@ author_profile: true
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; flex-wrap: wrap;">
 
   <!-- Left: Yellow Text Box -->
-  <div style="flex: 2; background-color: #fff4cc; padding: 20px; border-radius: 8px; 
+  <div style="flex: 2; background-color: #f4f4f4; padding: 20px; border-radius: 8px; 
               box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;
               min-width: 300px; max-width: 600px;">
 
