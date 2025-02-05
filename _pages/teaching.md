@@ -5,11 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; flex-wrap: wrap;">
 
   <!-- Left: Yellow Text Box -->
-  <div style="flex: 1; background-color: #f4f4f4; padding: 20px; border-radius: 8px; 
-              box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;">
+  <div style="flex: 2; background-color: #fff4cc; padding: 20px; border-radius: 8px; 
+              box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;
+              min-width: 300px; max-width: 600px;">
+
 
     Since Fall 2020, I have served as the instructor of record for 16 courses, including 13 seven-week courses and three full-semester courses, spanning first-year writing, upper-level seminars, and interdisciplinary subjects. Over these years, I have had the privilege of teaching 274 undergraduate students, continuously refining my pedagogical approach to foster critical thinking, engagement, and interdisciplinary inquiry.
 
@@ -20,10 +22,11 @@ author_profile: true
   </div>
 
   <!-- Right: Instagram Embed -->
-  <div style="flex: 1; text-align: center; max-width: 100px;">
+  <div style="flex: 1; text-align: center; min-width: 300px; max-width: 400px;">
     <blockquote class="instagram-media" 
                 data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" 
-                data-instgrm-version="14">
+                data-instgrm-version="14" 
+                style="max-width: 100%;">
       <p><a href="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" target="_blank">
         View on Instagram
       </a></p>
