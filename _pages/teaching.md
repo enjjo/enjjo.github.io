@@ -14,13 +14,13 @@ author_profile: true
     Since Fall 2020, I have served as the instructor of record for 16 courses, including 13 seven-week courses and three full-semester courses, spanning first-year writing, upper-level seminars, and interdisciplinary subjects. Over these years, I have had the privilege of teaching 274 undergraduate students, continuously refining my pedagogical approach to foster critical thinking, engagement, and interdisciplinary inquiry.
 
     <br><br>
-    🏆 Dietrich College Teaching Award (2024–2025)  
+    🏆 Dietrich College Teaching Award (2024–2025)  <br>
     🏆 English Department Teaching Award (2024)  
 
   </div>
 
   <!-- Right: Instagram Embed -->
-  <div style="flex: 1; text-align: center; max-width: 300px;">
+  <div style="flex: 1; text-align: center; max-width: 200px;">
     <blockquote class="instagram-media" 
                 data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" 
                 data-instgrm-version="14">
