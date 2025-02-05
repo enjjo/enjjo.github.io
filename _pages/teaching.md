@@ -20,7 +20,7 @@ author_profile: true
   </div>
 
   <!-- Right: Instagram Embed -->
-  <div style="flex: 1; text-align: center; max-width: 100px;">
+  <div style="flex: 1; text-align: center; max-width: 100px; height: 100px;">
     <blockquote class="instagram-media" 
                 data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" 
                 data-instgrm-version="14">
