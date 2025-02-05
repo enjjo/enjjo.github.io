@@ -4,18 +4,34 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<div style="background-color: #fff4cc; padding: 20px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;">
 
-Since Fall 2020, I have served as the instructor of record for 16 courses, including 13 seven-week courses and three full-semester courses, spanning first-year writing, upper-level seminars, and interdisciplinary subjects. Over these years, I have had the privilege of teaching 274 undergraduate students, continuously refining my pedagogical approach to foster critical thinking, engagement, and interdisciplinary inquiry.
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+
+  <!-- Left: Yellow Text Box -->
+  <div style="flex: 1; background-color: #fff4cc; padding: 20px; border-radius: 8px; 
+              box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-weight: bold;">
+
+    Since Fall 2020, I have served as the instructor of record for **16 courses**, including **13 seven-week courses** and **three full-semester courses**, spanning **first-year writing, upper-level seminars, and interdisciplinary subjects**. Over these years, I have had the privilege of **teaching 274 undergraduate students**, continuously refining my pedagogical approach to foster **critical thinking, engagement, and interdisciplinary inquiry**.
+
+    <br><br>
+    🏆 **Dietrich College Teaching Award (2024–2025)**  
+    🏆 **English Department Teaching Award (2024)**  
+
+  </div>
+
+  <!-- Right: Instagram Embed -->
+  <div style="flex: 1; text-align: center;">
+    <blockquote class="instagram-media" 
+                data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" 
+                data-instgrm-version="14">
+      <p><a href="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" target="_blank">
+        View on Instagram
+      </a></p>
+    </blockquote>
+    <script async src="https://www.instagram.com/embed.js"></script>
+  </div>
 
 </div>
-🏆 Dietrich College Teaching Award (2024–2025)  
-🏆 English Department Teaching Award (2024) 
-
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" data-instgrm-version="14">
-  <p><a href="https://www.instagram.com/p/DFnYv-9RyE5/?igsh=MTFmZG04aXBhZ290bA==" target="_blank">View on Instagram</a></p>
-</blockquote>  
-<script async src="https://www.instagram.com/embed.js"></script>
 
 ---
 
@@ -37,7 +53,7 @@ Since Fall 2020, I have served as the instructor of record for 16 courses, inclu
 
 ### **76-207 DiverCities: Multiculturalism and North American Cities**  
 **Semester:** Spring 2024  
-**Course Description:** This course investigates urban multiculturalism through the experiences of immigrant families, international students, and transnational workers. Focusing on Los Angeles, New York City, and Toronto**, students analyze how these cities function as sites of cultural intersection.  
+**Course Description:** This course investigates urban multiculturalism through the experiences of immigrant families, international students, and transnational workers. Focusing on Los Angeles, New York City, and Toronto, students analyze how these cities function as sites of cultural intersection.  
 **Curriculum Development:** Designed to align with my research on multiculturalism and transnationalism, this course connects urban studies, diaspora studies, and literature. By drawing on students' lived experiences, it encourages critical engagement with city spaces** and global migration.  
 
 ---
