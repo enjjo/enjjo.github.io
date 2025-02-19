@@ -57,14 +57,14 @@ author_profile: true
 ### **76-207 DiverCities: Multiculturalism and North American Cities**  
 **Semester:** Spring 2024  
 **Course Description:** This course investigates urban multiculturalism through the experiences of immigrant families, international students, and transnational workers. Focusing on Los Angeles, New York City, and Toronto, students analyze how these cities function as sites of cultural intersection.  
-**Curriculum Development:** Designed to align with my research on multiculturalism and transnationalism, this course connects urban studies, diaspora studies, and literature. By drawing on students' lived experiences, it encourages critical engagement with city spaces** and global migration.  
+**Curriculum Development:** Designed to align with my research on multiculturalism and transnationalism, this course connects urban studies, diaspora studies, and literature. By drawing on students' lived experiences, it encourages critical engagement with city spaces and global migration.  
 
 ---
 
 ### **76-107 Writing About Data**  
 **Semesters:** Fall 2022, Spring 2023, Fall 2023  
 **Course Description:** This course equips students with the skills to interpret, analyze, and argue with data in both academic and popular genres. Students learn to critically engage with quantitative and qualitative data, making complex arguments accessible to diverse audiences.  
-**Instructional (Re)Design:** Recognizing the challenges students face in adapting to new writing genres (IMRD, literature reviews), I implemented a structured scaffolded learning model, incorporating: (1) Brief reviews of key concepts; (2) Individual writing tasks linked to prior lessons; (3) Collaborative activities; (4) Summary lectures to reinforce learning. This model improved attendance, participation, and engagement** while promoting cognitive flexibility in writing.  
+**Instructional (Re)Design:** Recognizing the challenges students face in adapting to new writing genres (IMRD, literature reviews), I implemented a structured scaffolded learning model, incorporating: (1) Brief reviews of key concepts; (2) Individual writing tasks linked to prior lessons; (3) Collaborative activities; (4) Summary lectures to reinforce learning. This model improved attendance, participation, and engagement while promoting cognitive flexibility in writing.  
 
 ---
 
