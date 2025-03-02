@@ -45,11 +45,20 @@ author_profile: true
 **Course Description:** This foundational writing course examines the evolving relationship between writing and technology. Students develop critical reading and analytical writing skills while exploring how digital tools such as Grammarly, ChatGPT, GitHub, and LaTeX impact academic writing and knowledge production. Practical exercises using Zotero, Google Docs, and Tableau help students engage with writing as an interactive and evolving intellectual practice.  
 **Curriculum Development:** I designed this course to integrate foundational writing pedagogy with critical engagement in digital transformation, emphasizing collaboration, process-based writing, and technological literacy. 
 
-<a href="https://drive.google.com/file/d/14EPHNBaSJ4SHcSrv0Vup58DiO-KusVo7/view?usp=drive_link" target="_blank" 
-   style="display: inline-block; padding: 8px 15px; background-color: #f4b400; color: white; 
-          text-decoration: none; border-radius: 5px; font-weight: bold;">
-  Syllabus
-</a>
+<div style="display: flex; gap: 15px;">
+  <a href="https://drive.google.com/file/d/14EPHNBaSJ4SHcSrv0Vup58DiO-KusVo7/view?usp=drive_link" target="_blank" 
+     style="display: inline-block; padding: 8px 15px; background-color: #81CAD6; color: #DC3E26; 
+            text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Syllabus
+  </a>
+
+  <a href="https://drive.google.com/file/d/1cUGwVi9HcWS2A5labG2X9s1Einy52fIG/view?usp=drive_link" target="_blank" 
+     style="display: inline-block; padding: 8px 15px; background-color: #EDCD44; color: #DC3E26; 
+            text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Assignment Overview
+  </a>
+</div>
+
 
 ---
 
@@ -59,7 +68,7 @@ author_profile: true
 **Curriculum Development:** I proposed this course to fill a curricular gap and better reflect the diverse student body at Carnegie Mellon University. By incorporating multiple genres and theoretical perspectives, I foster discussions that are both reflective and critical.  
 
 <a href="https://drive.google.com/file/d/1Ajy7XUDvxzJVIeUeoMzzhJEdMQaGu0MJ/view?usp=drive_link" target="_blank" 
-   style="display: inline-block; padding: 8px 15px; background-color: #f4b400; color: white; 
+   style="display: inline-block; padding: 8px 15px; background-color: #81CAD6; color: #DC3E26; 
           text-decoration: none; border-radius: 5px; font-weight: bold;">
   Syllabus
 </a>
@@ -72,7 +81,7 @@ author_profile: true
 **Curriculum Development:** Designed to align with my research on multiculturalism and transnationalism, this course connects urban studies, diaspora studies, and literature. By drawing on students' lived experiences, it encourages critical engagement with city spaces and global migration.  
 
 <a href="https://drive.google.com/file/d/1-ie5oll97nW3862mGvIAESh7hJmV4meb/view?usp=drive_link" target="_blank" 
-   style="display: inline-block; padding: 8px 15px; background-color: #f4b400; color: white; 
+   style="display: inline-block; padding: 8px 15px; background-color: #81CAD6; color: #DC3E26; 
           text-decoration: none; border-radius: 5px; font-weight: bold;">
   Syllabus
 </a>
