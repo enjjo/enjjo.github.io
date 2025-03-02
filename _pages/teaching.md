@@ -96,7 +96,7 @@ author_profile: true
 ---
 
 ### **76-106 Writing About Literature - Diasporic Literature: Home and (Be)Longing**  
-**Semesters:** Fall 2020, Spring 2021, Fall 2021, Spring 2022  
+**Semesters:** Spring 2021, Fall 2021, Spring 2022  
 **Course Description:** This course explores the concept of home — both as a place of belonging and as a space of loss and displacement — through diasporic literature. Students analyze vignettes, poetry, and graphic literature by African, Caribbean, Asian, and European diasporic writers, using theoretical lenses on trauma, melancholy, loss, and citizenship.  
 **Curriculum Development:** I developed this theme after TA-ing a mini-semester course on Graphic Literature, aiming to introduce students to the complex narratives of so-called "home." I redesigned daily activities and integrated theoretical readings to strengthen students' ability to write theoretical lens papers with depth and nuance.  
 
