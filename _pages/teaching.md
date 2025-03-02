@@ -43,7 +43,14 @@ author_profile: true
 ### **76-101 Interpretation and Argument: Hello World: Texts & Tech**
 **Semester:** Fall 2024  
 **Course Description:** This foundational writing course examines the evolving relationship between writing and technology. Students develop critical reading and analytical writing skills while exploring how digital tools such as Grammarly, ChatGPT, GitHub, and LaTeX impact academic writing and knowledge production. Practical exercises using Zotero, Google Docs, and Tableau help students engage with writing as an interactive and evolving intellectual practice.  
-**Curriculum Development:** I designed this course to integrate foundational writing pedagogy with critical engagement in digital transformation, emphasizing collaboration, process-based writing, and technological literacy.  
+**Curriculum Development:** I designed this course to integrate foundational writing pedagogy with critical engagement in digital transformation, emphasizing collaboration, process-based writing, and technological literacy. 
+
+<a href="[https://drive.google.com/file/d/14EPHNBaSJ4SHcSrv0Vup58DiO-KusVo7/view?usp=drive_link]" target="_blank" 
+   style="display: inline-block; padding: 8px 15px; background-color: #f4b400; color: white; 
+          text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Find the syllabus here
+</a>
+
 
 ---
 
