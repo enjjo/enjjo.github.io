@@ -15,7 +15,7 @@ My research sits at the intersection of diasporic literature, transnational and 
 
 
 ## **Current Project**  
-### [D“Diaspora Voices in Translation: A Database of 21st-Century Translated Works](https://next-test-one-henna.vercel.app/)  
+### [“Diaspora Voices in Translation: A Database of 21st-Century Translated Works](https://next-test-one-henna.vercel.app/)  
 
 **Funding:** Twice supported by [departmental research grants](https://www.cmu.edu/dietrich/english/dei/project-funds.html).  
 
