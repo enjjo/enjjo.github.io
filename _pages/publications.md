@@ -16,6 +16,7 @@ Jo, Eunji. “The Face of the Zombie: Ethical Awakening and Redefining Humanity 
 Jo, Eunji. “When Exceptionalism Meets Exception: Canadian Black(less)ness in Elamin Abdelmahmoud’s *Son of Elsewhere*.” *in preparation for an edited volume on Canadian and American Border Crossings*.
 
 ### Works in Progress  
-“A Macroanalytic Study of Defining ‘Diasporic Literature’: Canons and Knowledge (Re)Production.”\
-“Translating Diaspora: Marketing and Genre Adaptation of American Novels for South Korean Readers.”\
+“Genre Misalignment: Classification Systems versus Marketing Strategies for Translated American 
+Diasporic Novels in South Korea.”\
+“The Gendered Canon: A Bibliometric Analysis of Diasporic Literary Criticism, 2004-2024.”\
 “Conversing in Silence: Sound as an Affective Medium in Barry Jenkins’s Moonlight (2016).”
