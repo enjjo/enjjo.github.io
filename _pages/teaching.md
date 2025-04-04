@@ -89,15 +89,32 @@ author_profile: true
 ---
 
 ### **76-107 Writing About Data**  
-**Semesters:** Fall 2022, Spring 2023, Fall 2023  
+**Semesters (Sections):** Fall 2022 (A1, A2), Spring 2023 (A3, A4), Fall 2023  (G1, G2) 
 **Course Description:** This course equips students with the skills to interpret, analyze, and argue with data in both academic and popular genres. Students learn to critically engage with quantitative and qualitative data, making complex arguments accessible to diverse audiences.  
 **Instructional (Re)Design:** Recognizing the challenges students face in adapting to new writing genres (IMRD, literature reviews), I implemented a structured scaffolded learning model, incorporating: (1) Brief reviews of key concepts; (2) Individual writing tasks linked to prior lessons; (3) Collaborative activities; (4) Summary lectures to reinforce learning. This model improved attendance, participation, and engagement while promoting cognitive flexibility in writing.  
+
+<a href="https://drive.google.com/file/d/1aFDm4bht-YL9R1Hyt1U8ZzifWzqyDR--/view?usp=share_link" target="_blank" 
+   style="display: inline-block; padding: 8px 15px; background-color: #81CAD6; color: #DC3E26; 
+          text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Syllabus
+</a>
 
 ---
 
 ### **76-106 Writing About Literature - Diasporic Literature: Home and (Be)Longing**  
-**Semesters:** Spring 2021, Fall 2021, Spring 2022  
+**Semesters (Sections):** Spring 2021 (D3, D4), Fall 2021 (F1, F2), Spring 2022 (C3, C4) 
 **Course Description:** This course explores the concept of home — both as a place of belonging and as a space of loss and displacement — through diasporic literature. Students analyze vignettes, poetry, and graphic literature by African, Caribbean, Asian, and European diasporic writers, using theoretical lenses on trauma, melancholy, loss, and citizenship.  
 **Curriculum Development:** I developed this theme after TA-ing a mini-semester course on Graphic Literature, aiming to introduce students to the complex narratives of so-called "home." I redesigned daily activities and integrated theoretical readings to strengthen students' ability to write theoretical lens papers with depth and nuance.  
 
+<a href="https://drive.google.com/file/d/1MZ4udIS5lvD58VuUutZBhIbEu_K8z9Dm/view?usp=share_link" target="_blank" 
+   style="display: inline-block; padding: 8px 15px; background-color: #81CAD6; color: #DC3E26; 
+          text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Syllabus
+</a>
+
 ---
+
+### **76-106 Writing About Literature - Graphic Literature**  
+**Semesters (Sections):** Fall 2020 (D2)  
+**Course Description:** This 76106 course uses graphic literature to introduce to a variety of academic reading and writing practices that enable students to discuss texts and evidence from multiple perspectives. Students examine how literary and cultural scholars write about texts (defined broadly), how they make claims, provide reasoning, and use textual support to argue for particular ways of seeing cultural objects. Throughout the semester, students draw upon prior strategies and develop new ones for close reading and for critical analysis in order to produce their own thesis-driven arguments about why texts matter. 
+**Instructional (Re)Design):** I TA-ed for a wonderful mentor, Dr. Kevin Haworth, who originally designed this course and generously allowed me to redesign and teach it. I retained the same core texts -- Nora Krug's _Belonging: A German Wrestles with History and Home_ and Sanford Greene, Chuck Brown, and David F. Walker's _Bitter Root_ -- but replaced one text with Matt Huynh's _"[The Boat](https://www.matthuynh.com/stories/theboat-9rw43),"_ an interactive graphic project. Additionally, while guiding students in writing a **theoretical lens analysis paper**, my class focused on theoretical lenses and criticism related to multiethnic literary and cultural studies.
