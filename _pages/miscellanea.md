@@ -19,5 +19,5 @@ While I no longer focus on ArcGIS or mapping per se, that early intuition shaped
 I’m grateful to have gotten the opportunity to pursue the research I once dreamed of and even more excited to soon share it with my mentors and friends.
 
 
-<iframe src="/images/defense.pdf#toolbar=0" width="100%" style="border: none;"></iframe>
+<iframe src="/images/defense.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
 
