@@ -19,5 +19,5 @@ While mapping per se does not interest me as much, that early intuition shaped m
 I’m grateful to have had the opportunity to pursue the research I once dreamed of, supported by the patience, kindness, shared enthusiasm, and generosity of my mentors, I’m even more excited to soon share it with my mentors and friends.
 
 
-<iframe src="/images/defense.pdf#toolbar=0" width="100%" height="700px" style="border: none;"></iframe>
+<iframe src="/images/defense.pdf#toolbar=0" width="100%" height="650px" style="border: none;"></iframe>
 
