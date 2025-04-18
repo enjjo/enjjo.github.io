@@ -17,7 +17,7 @@ Years later, as a PhD student, I returned to *Love Enough*, and it became part o
 While I no longer focus on ArcGIS or mapping per se, that early intuition shaped my methodology. I now explore literary texts through systematic and comparative approaches and have become more and more comfortable experimenting with different ways of reading and writing something I’ve grown very proud of.
 
 I’m grateful to have gotten the opportunity to pursue the research I once dreamed of and even more excited to soon share it with my mentors and friends.
----
 
-<iframe src="/images/defense.pdf#toolbar=0" width="100%" height="800px" style="border: none;"></iframe>
+
+<iframe src="/images/defense.pdf#toolbar=0" width="100%" style="border: none;"></iframe>
 
