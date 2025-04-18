@@ -5,20 +5,19 @@ permalink: /miscellanea/
 author_profile: true
 ---
 
-<style>
-@keyframes sparkle {
-  0% { opacity: 1; text-shadow: 0 0 5px #FFD700; }
-  50% { opacity: 0.6; text-shadow: 0 0 10px #FFD700, 0 0 20px #FFA500; }
-  100% { opacity: 1; text-shadow: 0 0 5px #FFD700; }
-}
+## (Re)Routing My Way to Defense  
+🗓️ March 1, 2024 
 
-.sparkle-text {
-  font-weight: bold;
-  animation: sparkle 1.5s infinite alternate;
-  color: #DAA520; /* Gold color */
-}
-</style>
+I still remember a conversation with my advisor during my Master’s program. I had just finished reading *Love Enough* and said, “This novel needs a map.” The emotional and spatial landscapes felt inseparable, and I believed visualizing them geographically would offer new insight. But at the time, I was told mapping literature wasn’t a “scholarly” approach.
 
-🚧 <span class="sparkle-text">This page is currently under construction!</span> 🚧  
+So instead, I wrote on *What We All Long For*, another novel by Dionne Brand, whose works I deeply admire and cherish. I always return and turn to her novels, as they remind me why I set out on this path to study literature and culture.
 
-Stay tuned for updates on **academic engagements, conference highlights, and other scholarly adventures.**  
+Years later, as a PhD student, I returned to *Love Enough*, and it became part of my dissertation after all.
+
+While I no longer focus on ArcGIS or mapping per se, that early intuition shaped my methodology. I now explore literary texts through systematic and comparative approaches and have become more and more comfortable experimenting with different ways of reading and writing something I’ve grown very proud of.
+
+I’m grateful to have gotten the opportunity to pursue the research I once dreamed of and even more excited to soon share it with my mentors and friends.
+---
+
+<iframe src="/images/defense.pdf#toolbar=0" width="100%" height="800px" style="border: none;"></iframe>
+
