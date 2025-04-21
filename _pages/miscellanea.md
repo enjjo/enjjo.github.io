@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## (Re)Routing My Way to Defense  
-🗓️ March 1, 2024 
+🗓️ April 19, 2025 
 
 I still remember a conversation with my advisor during my Master’s program. I had just finished reading *Love Enough* and said, “This novel needs a map.” The emotional and spatial landscapes felt inseparable, and I believed visualizing them geographically would offer new insight. But at the time, I was told mapping literature wasn’t a “scholarly” approach.
 
